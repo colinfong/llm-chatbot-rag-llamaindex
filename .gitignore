@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.chainlit/
+.files/
+
+# Secrets
+apikeys.yml
+.env
