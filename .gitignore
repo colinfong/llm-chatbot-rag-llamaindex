@@ -8,4 +8,5 @@ __pycache__/
 
 # Secrets
 apikeys.yml
+CLAUDE.local.md
 .env
